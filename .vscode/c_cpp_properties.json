@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "ROOT root_env",
+      "compilerPath": "/home/motohashi/miniconda3/envs/root_env/bin/x86_64-conda-linux-gnu-c++",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/build",
+        "/home/motohashi/miniconda3/envs/root_env/include"
+      ],
+      "defines": [
+        "TCTSCAN_PROJECT_ROOT=\"/home/motohashi/work/analysis_tctscan_ref\""
+      ],
+      "cppStandard": "c++20",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

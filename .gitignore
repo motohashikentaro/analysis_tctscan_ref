@@ -1,0 +1,10 @@
+/bin/*
+/build/*
+/data/
+/results/
+/review
+__pycache__/
+*.pyc
+
+# Downloaded reference material (separate repositories)
+/external/
